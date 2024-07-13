@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+    font-family: "Arvo", serif;
+    font-style: normal;
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp2757874.gif&f=1&nofb=1&ipt=29a3157f30b9df40a6c914aa28c46a93e6d273e882f322447fe71f9d80e4980f&ipo=images");
+
+}
+
+.navbar {
+    margin: 0px;
+    padding: 1rem;
+    border-bottom: 5px solid white;
+
+}
+
+.nav-options a,
+span {
+    color: #f13639;
+    margin-right: 30px;
+    padding-right: 10px;
+
+}
+
+.btn {
+    border: 3px solid #f13639;
+    background-color: #202332;
+    color: white;
+}
+
+.nav-options :hover {
+    background-color: white;
+    color: black;
+}
+
+.container-fluid {
+    border-bottom: 5px solid white;
+    height: auto;
+
+}
+
+.row h1 {
+    display: flex;
+    align-self: center;
+    align-items: center;
+    margin: 0px;
+    padding: 50px;
+    color: white;
+    font-weight: bold;
+}
+
+
+footer {
+    height: auto;
+    color: white;
+}
+
+footer a {
+    color: #f13639;
+}
+
+ul {
+    padding-left: auto;
+}
